@@ -3,7 +3,7 @@
 
 
 
-![Gu4rdioN GitHub stats](https://github-readme-stats.vercel.app/api?username=Gu4rdioN&show_icons=true&theme=highcontrast)
+![Gu4rdioN GitHub stats](https://github-readme-stats.vercel.app/api?username=Gu4rdioN&show_icons=true&theme=highcontrast&cache_seconds=1800)
 
 #### I am currently learning Python, R, Tableau, and MySQL to enhance my data analysis skills. Through various projects, I aim to apply these technologies to solve real-world problems and contribute to my portfolio.
 
