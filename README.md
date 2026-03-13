@@ -9,5 +9,5 @@
 
 
 ### Technologies I am learning.
-![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![r](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) ![tableau](    https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) ![html](https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=html)
+![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![r](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) ![tableau](    https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) ![html]([https://shields.io/badge/HTML-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-f06529?logo=html5&logoColor=white&labelColor=f06529)
 
